@@ -100,7 +100,8 @@ async function loadBlogPosts() {
         const posts = [
             'getting-started-with-web-development.md',
             'why-i-love-javascript.md',
-            'building-my-first-react-app.md'
+            'building-my-first-react-app.md',
+            'MCP-The-Magic-Connector-Making-AI-Smarter-for-You.md'
         ];
 
         // Load and render posts
